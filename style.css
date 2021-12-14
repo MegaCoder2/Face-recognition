@@ -1,0 +1,31 @@
+body
+{
+    background-color: steelblue;
+    color: white;
+}
+.title
+{
+    color: lightsalmon;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.boldedtext1
+{
+    background-color: rgb(161, 161, 161);
+    color: green;
+    font-size: 17.5px;
+}
+#camera
+{
+    width: 350px;
+    height: 350px;
+    border-radius: 6px;
+    border: 2px solid coral;
+}
+#object
+{
+    color: green;
+}
+#accuracy
+{
+    color: green;
+}
